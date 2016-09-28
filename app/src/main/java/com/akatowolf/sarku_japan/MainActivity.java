@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent2 = new Intent(this, Producto.class);
                 setResult(RESULT_OK,intent2);
                 startActivity(intent2);
-                finish();
+
         }
         return super.onOptionsItemSelected(item);
     }

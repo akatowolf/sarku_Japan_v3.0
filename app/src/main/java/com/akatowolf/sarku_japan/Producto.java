@@ -97,7 +97,6 @@ public class Producto extends AppCompatActivity {
             case R.id.ractivity:
                 Intent intent = new Intent(this, MainActivity.class);
                 finish();
-                startActivity(intent);
                 break;
         }
         return super.onOptionsItemSelected(item);
