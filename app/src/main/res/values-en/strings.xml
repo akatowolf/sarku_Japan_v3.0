@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sarku Japan</string>
+    <string name="usuario">User</string>
+    <string name="contrasena">Password</string>
+    <string name="rContrasena">Repeat Password</string>
+    <string name="entrar">Login</string>
+    <string name="registro">Register</string>
+    <string name="correo">Email</string>
+    <string name="miperfil">User</string>
+    <string name="cancelar">Cancel</string>
+    <string name="aceptar">Register</string>
+    <string name="repetir">Some fields are empty</string>
+    <string name="igual">Passwords do not match</string>
+    <string name="exito">You have been registered</string>
+    <string name="noreg">User does not exist or is currently invalid</string>
+    <string name="user">User:</string>
+    <string name="mail">Email:</string>
+    <string name="main">Home</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="sushi">SUSHI</string>
+    <string name="mandariyaki">MANDARIYAKI</string>
+    <string name="teriyaki">Platos Teriyaki</string>
+</resources>

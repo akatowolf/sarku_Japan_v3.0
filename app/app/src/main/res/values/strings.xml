@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sarku Japan</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="rContrasena">Repetir contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registro">Registro</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="miperfil">Perfil</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+</resources>

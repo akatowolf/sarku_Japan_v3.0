@@ -1,0 +1,110 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.akatowolf.sarku_japan.teriyakiFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:src="@drawable/polloteriyaki"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@color/darkred"
+                android:textSize="30dp"
+                android:text="Pollo Teriyaki"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="Es nuestra especialidad, exquisito pollo cocinado en plancha Teppanyanki y glaseado con nuestra deliciosa salsa Teriyaki."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$14.900"
+                android:textSize="15dp"
+                android:textColor="@color/black"/>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:src="@drawable/carneteriyaki"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textSize="30dp"
+                android:textColor="@color/darkred"
+                android:text="Carne de Res Teriyaki"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="Trozos de jugosa carne y champiñones cocinados en plancha Teppanyanki y glaseados con nuestra deliciosa salsa teriyaki."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$16.900"
+                android:textSize="15dp"
+                android:textColor="@color/black"/>
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:src="@drawable/camaronesteriyaki"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/darkred"
+                android:textSize="30dp"
+                android:layout_gravity="center"
+                android:text="Camarones Teriyaki"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="Frescos camarones y champiñones cocinados en plancha Teppanyanki y glaseados con nuestra deliciosa salsa Teriyaki."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$21.500"
+                android:textSize="15dp"
+                android:textColor="@color/black"/>
+
+            <ImageView
+                android:layout_width="300dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:src="@drawable/carneycamaronesteriyaki"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/darkred"
+                android:textSize="30dp"
+                android:layout_gravity="center"
+                android:text="Carne con Camarones Teriyaki"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="Exquisita combinación de carne y camarones cocinados en plancha Teppanyaki y glaseados con nuestra deliciosa salsa Teriyaki."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$22.900"
+                android:textSize="15dp"
+                android:textColor="@color/black"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
